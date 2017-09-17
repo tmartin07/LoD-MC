@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi All,
+
+My name is Tmartin07, I am a member of the buckeye current team at CAR. like Node.js and Coffeescript.
+
+Finished.
